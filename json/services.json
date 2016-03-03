@@ -1,0 +1,17 @@
+[
+  {
+    "name" : "Hardware Repair",
+    "description" : "Fixing your hardware needs",
+    "price_range" : "€100 - €200"
+  },
+  {
+    "name" : "Virus Removal",
+    "description" : "Checking for viruses and remove them",
+    "price_range" : "€100 - €150"
+  },
+  {
+    "name" : "PC Tune Up",
+    "description" : "Speeding up your PC",
+    "price_range" : "€75 - €125"
+  }
+]
